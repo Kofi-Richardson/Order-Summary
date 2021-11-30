@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./Screenshot/web.png)
-![](./Screenshot/Mobile)
+![](./Screenshot/Mobile.png)
 
 
 
@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kofi-Richardson/Order-Summary)
-- Live Site URL: [Add live site URL here](https://kofi-richardson.github.io/Order-Summary/index.html)
+- Solution URL: [solution URL ](https://github.com/Kofi-Richardson/Order-Summary)
+- Live Site URL: [ live site URL here](https://kofi-richardson.github.io/Order-Summary/index.html)
 
 ## My process
 
