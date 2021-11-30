@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kofi-Richardson/NFT-Preview-Card)
-- Live Site URL: [Add live site URL here](https://kofi-richardson.github.io/NFT-Preview-Card/index.html)
+- Solution URL: [Add solution URL here](https://github.com/Kofi-Richardson/Order-Summary)
+- Live Site URL: [Add live site URL here](https://kofi-richardson.github.io/Order-Summary/index.html)
 
 ## My process
 
